@@ -14,9 +14,9 @@ Hi, my name is Anjan Maharjan. My hometown is Rochester, NY and I attended Gates
 [RIT SE](https://www.rit.edu/computing/department-software-engineering)
 
 # What I'd like to learn:
--How to work with teams more efficiently
--What workflows are the best
--How to design and work on a project
+- How to work with teams more efficiently
+- What workflows are the best
+- How to design and work on a project
 
 ```markdown
 Syntax highlighted code block
